@@ -1,0 +1,2196 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"folder_exclude_patterns"
+			],
+			[
+				"set",
+				"set_setting"
+			],
+			[
+				"sublime",
+				"sublime_plugin"
+			],
+			[
+				"com",
+				"comm-block	Coffeescript Comment - Block section"
+			],
+			[
+				"user",
+				"userId	Meteor: this.userId"
+			],
+			[
+				"p",
+				"__package__"
+			],
+			[
+				"_",
+				"__builtins__"
+			],
+			[
+				"__",
+				"__doc__"
+			],
+			[
+				"na",
+				"namespace	@namespace"
+			],
+			[
+				"comms",
+				"comm-single	Comment - Single-line block comment"
+			],
+			[
+				"net",
+				"networkSignupClient"
+			],
+			[
+				"comm",
+				"comm-sub	Coffeescript Comment - Subsection"
+			],
+			[
+				"comh",
+				"comm-header	Coffeescript Comment - Header section"
+			],
+			[
+				"commh",
+				"comm-header	Coffeescript Comment - Header section"
+			],
+			[
+				"cmmh",
+				"comm-header	Coffeescript Comment - Header section"
+			],
+			[
+				"isDie",
+				"isSidebarCollapsed"
+			],
+			[
+				"Per",
+				"PerspectiveSidebar"
+			],
+			[
+				"navbar",
+				"navbar-right"
+			],
+			[
+				"si",
+				"sidebar-width"
+			],
+			[
+				"selector",
+				"selector-tool"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"sidebar",
+				"sidebar-expanded-width"
+			],
+			[
+				"unl",
+				"unload"
+			],
+			[
+				"on",
+				"onBeforeAction"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"col",
+				"col-sm-9"
+			],
+			[
+				"step",
+				"stepwizard-step"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"comm-",
+				"comm-section	Comment - Full section comment"
+			],
+			[
+				"Servic",
+				"ServicesClientsContent"
+			],
+			[
+				"curre",
+				"current_route"
+			],
+			[
+				"ela",
+				"elapsed"
+			],
+			[
+				"recurse",
+				"recursiveCheck"
+			],
+			[
+				"elaps",
+				"elapsedTime"
+			],
+			[
+				"mous",
+				"mouseTrackerClone"
+			],
+			[
+				"recur",
+				"recursiveCheck"
+			],
+			[
+				"moustR",
+				"mouseTrackerClone"
+			],
+			[
+				"muset",
+				"mouseTrackerTimelength"
+			],
+			[
+				"mouseT",
+				"mouseTrackerClone"
+			],
+			[
+				"mouseTrac",
+				"mouseTrackerLast"
+			],
+			[
+				"tracer",
+				"trackerCursor"
+			],
+			[
+				"comm-s",
+				"comm-section	Comment - Full section comment"
+			],
+			[
+				"clickTracker",
+				"clickTrackerStart"
+			],
+			[
+				"mo",
+				"mouseTrackerStart"
+			],
+			[
+				"NoGur",
+				"NoGuessworkSidebarSubscribe"
+			],
+			[
+				"avat",
+				"avatar"
+			],
+			[
+				"ava",
+				"avatar_default"
+			],
+			[
+				"subs",
+				"subscribeMessage"
+			],
+			[
+				"events-",
+				"events-bound-dragdrop"
+			],
+			[
+				"s3Im",
+				"s3ImportStore"
+			],
+			[
+				"medium",
+				"mediumInsert"
+			],
+			[
+				"the",
+				"theFile"
+			],
+			[
+				"jqx",
+				"jqxhr"
+			],
+			[
+				"files",
+				"fileStuff"
+			],
+			[
+				"file",
+				"fileObj"
+			],
+			[
+				"blo",
+				"blogShowBody"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"config",
+				"configDriver"
+			],
+			[
+				"confi",
+				"configDriver"
+			],
+			[
+				"Quan",
+				"QuantifyProjects"
+			],
+			[
+				"curren",
+				"currentPage"
+			],
+			[
+				"tot",
+				"total_pages"
+			],
+			[
+				"total",
+				"totalPages"
+			],
+			[
+				"QuantifyS",
+				"QuantifyShowPagination"
+			],
+			[
+				"items",
+				"items_per_page"
+			],
+			[
+				"data",
+				"dataView"
+			],
+			[
+				"pro",
+				"project_id"
+			],
+			[
+				"chart",
+				"chartReady"
+			],
+			[
+				"Quanti",
+				"QuantifyProjects"
+			],
+			[
+				"cure",
+				"currentColumnId"
+			],
+			[
+				"inpu",
+				"input-tags"
+			],
+			[
+				"press",
+				"pressed_key"
+			],
+			[
+				"quantify",
+				"QuantifyColumns"
+			],
+			[
+				"created",
+				"created_project_id"
+			],
+			[
+				"shorcu",
+				"shortcut_key"
+			],
+			[
+				"QuantifySo",
+				"QuantifyShowShortcutSelector"
+			],
+			[
+				"QuantifySh",
+				"QuantifyShowShortcuts"
+			],
+			[
+				"shortcut",
+				"shortcut_key"
+			],
+			[
+				"short",
+				"shortcutKey"
+			],
+			[
+				"shor",
+				"shorcut_key"
+			],
+			[
+				"sor",
+				"sorted_tag_ids"
+			],
+			[
+				"tags",
+				"tags_array"
+			],
+			[
+				"remo",
+				"removed_tag"
+			],
+			[
+				"tasinp",
+				"tagsinputState"
+			],
+			[
+				"added",
+				"added_tag"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"QuantifyT",
+				"QuantifyItemTags"
+			],
+			[
+				"Q",
+				"QuantifyColumns"
+			],
+			[
+				"Quant",
+				"QuantifyController"
+			],
+			[
+				"proje",
+				"projectId"
+			],
+			[
+				"create",
+				"created_project_id"
+			],
+			[
+				"filter",
+				"filtered_csv_data"
+			],
+			[
+				"colum",
+				"column_number"
+			],
+			[
+				"selecte",
+				"selectedColumns"
+			],
+			[
+				"selec",
+				"selector_filter"
+			],
+			[
+				"sele",
+				"selector_filter"
+			],
+			[
+				"se",
+				"select-hover"
+			],
+			[
+				"par",
+				"parseCsvSync"
+			],
+			[
+				"parseC",
+				"parseCsvAsync"
+			],
+			[
+				"quan",
+				"quantifyImports"
+			],
+			[
+				"Qua",
+				"QuantifyImports"
+			],
+			[
+				"quant",
+				"quantifyImportStore"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"even",
+				"event_object"
+			],
+			[
+				"the_",
+				"the_event"
+			],
+			[
+				"comm-se",
+				"comm-section-header	Comment - Section header comment"
+			],
+			[
+				"parent",
+				"parent_url"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"ree",
+				"response"
+			],
+			[
+				"int",
+				"interface_markup"
+			],
+			[
+				"respons",
+				"response_content"
+			],
+			[
+				"respos",
+				"response_content"
+			],
+			[
+				"item_",
+				"item_price"
+			],
+			[
+				"item",
+				"item_name"
+			],
+			[
+				"revenue_rec",
+				"revenue_record_id"
+			],
+			[
+				"is",
+				"is_last_page"
+			],
+			[
+				"more",
+				"more_records_exist"
+			],
+			[
+				"hash",
+				"hashpocket"
+			],
+			[
+				"sp",
+				"splash"
+			],
+			[
+				"gift",
+				"giftbox_wrapper"
+			],
+			[
+				"target",
+				"target_account_craigslist_emails"
+			],
+			[
+				"target_",
+				"target_acount_craigslist_emails"
+			],
+			[
+				"next_",
+				"next_page_url"
+			],
+			[
+				"lis",
+				"listing_urls"
+			],
+			[
+				"nex",
+				"next_page_url"
+			],
+			[
+				"page",
+				"page"
+			],
+			[
+				"condition",
+				"condition_i"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".sublime-project",
+			"settings":
+			{
+				"buffer_size": 440,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"List",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CoffeeScriptTM/Commands/CoffeeScript.sublime-build",
+					""
+				]
+			],
+			[
+				"List",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 80.0,
+		"last_filter": "ssjson",
+		"selected_items":
+		[
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"sublint",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"sumar",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"anf new",
+				"ANF: New File"
+			],
+			[
+				"anf",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"remvep",
+				"Package Control: Remove Package"
+			],
+			[
+				"anf:",
+				"ANF: New File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"cache",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"sublintti",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublintlinting",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sublintenabl",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublintdis",
+				"SublimeLinter: Don't Make Warnings Passive"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"pred",
+				"Preferences: Settings - Default"
+			],
+			[
+				"keydeaf",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"scope",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"inst",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"scopehu",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"scop",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"sublienab",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"subli",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublintclea",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"prefsubli",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"prefsubl",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"su",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"sublintco",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"prefersub",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"tol",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublintcol",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"subsett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sublintthe",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"sublintthem",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"prefl",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"remop",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"gutt",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"lintc",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"ssjsn",
+				"Set Syntax: JSON"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"sublthem",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"linma",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lintt",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lintset",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"prefde",
+				"Preferences: Settings - Default"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"lintto",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"togl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"subnotif",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"packager",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"scope hunter",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"scopet",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"scope h",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"sci",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"replpy",
+				"SublimeREPL: Python"
+			],
+			[
+				"subreplp",
+				"SublimeREPL: Python"
+			],
+			[
+				"subreplpy",
+				"SublimeREPL: Python"
+			],
+			[
+				"defaul",
+				"Preferences: Settings - Default"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"sspyt",
+				"Set Syntax: Python"
+			],
+			[
+				"settindef",
+				"Preferences: Settings - Default"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"l",
+				"Package Control: List Packages"
+			],
+			[
+				"rempa",
+				"Package Control: Remove Package"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sscoff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"editco",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"packacoc",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sublimeli",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"ena",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"dis",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"subca",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"linsett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"subdebu",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"lintsett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"create li",
+				"SublimeLinter: Create Linter Plugin"
+			],
+			[
+				"lint settin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublintsett",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"linena",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"enabl",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"linenab",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"disab",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"sublintt",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"enab",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"lindis",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"slint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linters",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"prefe lin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"coffeel",
+				"Coffee: Lint"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"coffee",
+				"Coffee: Check Syntax"
+			],
+			[
+				"coffeelint",
+				"Coffee: Lint"
+			],
+			[
+				"subc",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"dox",
+				"DashDoc: invoke Dash with selected word (flip syntax sensitivity)"
+			],
+			[
+				"sscof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"package",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"",
+				"Coffee: Check Syntax"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ssjade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sshaml",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"scopeh",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			]
+		],
+		"width": 596.0
+	},
+	"console":
+	{
+		"height": 280.0,
+		"history":
+		[
+			"c",
+			"sublime.log_commands(True)",
+			"sublime.log_command(True)",
+			"log_command(True)",
+			"sublime_plugin.run_commmand",
+			"sublime_plugin.view",
+			"sublime_plugin.window",
+			"sublime_plugin",
+			"import sublime_plugin",
+			"import sublime",
+			"log_commands(True)",
+			"sublime.log_input(True)",
+			"import sublime",
+			"log_commands(True)",
+			"log_input(True)",
+			"import sublime_plugin",
+			"import sublime",
+			"sublime.sublime_api.run_command",
+			"sublime.sublime_api.un_command",
+			"pprint.pprint(vars(sublime.sublime_api))",
+			"sublime.sublime_api",
+			"pprint.pprint(vars(sublime))",
+			"pprint.pprint(sublime)",
+			"import pprint",
+			"vars(sublime)",
+			"sublime",
+			"for (i,window) in sublime.windows(): return window;\\",
+			"for (i,window) in sublime.windows(): return window;",
+			"for (i,window) in sublime.windows(): return window",
+			"for (i,window) in sublime.windows(): window",
+			"for (i,window) in sublime.windows(): (window)",
+			"for (i,window) in sublime.windows(): vars(window)",
+			"for (i,window) in sublime.windows(): print window",
+			"for window in sublime.windows(): [print window]",
+			"for window in sublime.windows():[print window]",
+			"for window in sublime.windows(): print window",
+			"for window in sublime.windows(): print(window)",
+			"for window in sublime.windows(): print 4",
+			"print \"ASD\" for window in sublime.windows()",
+			"sublime.windows()",
+			"window.run_command(\"toggle_setting\", {\"setting\": \"gutter\"}) for window in sublime.windows()",
+			"window.run_command(\"toggle_setting\", {\"setting\": \"gutter\"})  for window in sublime.windows()",
+			"def blah(): return 5;",
+			"def blah(): return 5",
+			"len(sublime.windows())",
+			"1 + sublime.windows().count",
+			"print sublime.windows().count",
+			"sublime.windows().count",
+			"sublime.windows().count()",
+			"sublime.windows().length",
+			"sublime.windows().count()",
+			"sublime.windows().count",
+			"sublime.windows()[0]",
+			"sublime.windows()",
+			"sublime.windows",
+			"sublime.run_command(\"toggle_setting\", {\"setting\": \"gutter\"})",
+			"sublime.log_commands(True)",
+			"print(sublime.run_command)",
+			"dirs(sublime.run_command)",
+			"dirs(sublime.run_command0",
+			"sublime.run_command",
+			"sublime.windows.count",
+			"sublime.windows[0]",
+			"sublime.windows",
+			"vars(sublime.windows())",
+			"vars(sublime.windows)",
+			"sublime.windows",
+			"pprint.pprint(vars(sublime))",
+			"pprint.pprint(sublime)",
+			"vars(sublime)",
+			"sublime.window",
+			"sublime",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"pprint.pprint(vars(sublime))",
+			"pprint.pprint(sublime)",
+			"vars(sublime)",
+			"sublime",
+			"pprint.pprint(globals())",
+			"vars(global())",
+			"vars(globals())",
+			"vars(window)",
+			"view.settings()",
+			"view.settings().__dict__",
+			"sublime_plugin",
+			"view.settings.__dict__",
+			"view.settings().__dict__",
+			"pprint.pprint(vars(view.settings()))",
+			"pprint.pprint(view.settings())",
+			"pprint.pprint(view.settings)",
+			"view.settings()",
+			"vars(view.settings())",
+			"var(view.settings())",
+			"view.settings()",
+			"vars(view)",
+			"view",
+			"window.settings().get('theme')",
+			"vars(window)",
+			"pprint.pprint(window)",
+			"window",
+			"dir",
+			"import dir",
+			"import pydoc",
+			"import help",
+			"import module",
+			"help(view())",
+			"help(view)",
+			"help(window)",
+			"print dir(window)",
+			"pprint.pprint(window)",
+			"window",
+			"pprint.pprint(globals())",
+			"pprint.pprint(locals())",
+			"print vars(view.settings())",
+			"print vars(view)",
+			"print view.settings();",
+			"pprint.pprint(view.settings());",
+			"cgitb.enable()",
+			"import cgitb",
+			"pprint.pprint(view.settings());",
+			"pprint.pprint(view.settings())",
+			"pprint.pprint(view())",
+			"pprint.pprint(view)",
+			"import pprint",
+			"print view.settings();",
+			"print view.settings()",
+			"view.settings()",
+			"view.settings().get(\"theme\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/koutaroum/sites/cfy"
+	],
+	"file_history":
+	[
+		"/Users/koutaroum/sites/sandbox/convertify/app/lib/routes.js",
+		"/Users/koutaroum/sites/sandbox/convertify/app/server/publish.js",
+		"/Users/koutaroum/sites/sandbox/convertify/app/client/templates/network/network.js",
+		"/Users/koutaroum/sites/___sublime-projects_____/experiment.sublime-project",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/koutaroum/sites/cfy/as/a/d",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Users/koutaroum/sites/___sublime-projects_____/convertify.sublime-project",
+		"/Users/koutaroum/sites/cfy/_lib/_/lib/_convertify.js",
+		"/Users/koutaroum/sites/cfy/_lib/_/lib/_schemas.coffee",
+		"/Users/koutaroum/sites/cfy/client/boot.coffee",
+		"/Users/koutaroum/sites/cfy/lib/environment.coffee",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/vendor/bootstrap/assets/stylesheets/bootstrap/_button-groups.scss",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-theme",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/Custom-Themes/brogrammer.tmTheme",
+		"/Users/koutaroum/Dropbox (Convertify)/Sublime/User/Themes/brogrammer.tmTheme",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/Custom-Themes/Brogrammer.sublime-theme",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/Theme - Brogrammer/brogrammer.tmTheme",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/koutaroum/sites/cfy/apps/network/lib/schemas.coffee",
+		"/Users/koutaroum/Dropbox (Convertify)/Sublime/User/cooperm-sublime-plugin-toggle-rulers.py",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter/Apathy-2.1 (SL).tmTheme",
+		"/Users/koutaroum/sites/cfy/client/layouts/admin/layout_admin.coffee",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/Custom-Themes/Apathy-2.1.tmTheme",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/koutaroum/sites/cfy/.sublimelinterrc",
+		"/Users/koutaroum/sites/cfy/private/semantic-ui/js/semantic-ui/sticky.js",
+		"/Users/koutaroum/sites/cfy/.scss-lint.yml",
+		"/Users/koutaroum/sites/cfy/.gitignore",
+		"/Users/koutaroum/Pacll",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/koutaroum/sites/cfy/apps/network/client/signup.jade",
+		"/Users/koutaroum/sites/cfy/client/compatibility/require.js",
+		"/Users/koutaroum/sites/cfy/.jshintrc",
+		"/Users/koutaroum/sites/cfy/client/views/home/home.coffee",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/sublimelinter.py",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/lint/linter.py",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/lint/util.py",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Main.sublime-menu",
+		"/Users/koutaroum/sites/cfy/private/semantic-ui/stylesheets/globals/_site.scss",
+		"/Users/koutaroum/Dropbox (Convertify)/Sublime/User/cooperm-notify.py",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/sub_notify.sublime-settings",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/SubNotify/sub_notify.sublime-settings",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/scope_hunter.sublime-settings",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/Custom-Themes/Apathy-2.0.tmTheme",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/ScopeHunter/scope_hunter.sublime-settings",
+		"/Users/koutaroum/sites/cfy/lib/config/at_config.js",
+		"/Users/koutaroum/sites/cfy/client/views/home/home.html",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/koutaroum/sites/cfy/.editorconfig",
+		"/Users/koutaroum/sites/cfy/public/vendor/semantic-ui/definitions/views/item.less",
+		"/Users/koutaroum/sites/cfy/private/semantic-ui/js/semantic-ui/dimmer.js",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/styles-dev.scss",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/modules/_all.scss",
+		"/Users/koutaroum/sites/cfy/client/compatibility/md5.min.js",
+		"/Users/koutaroum/sites/cfy/coffeelint.json",
+		"/Users/koutaroum/sites/cfy/apps/network/client/signup.coffee",
+		"/Users/koutaroum/sites/cfy/public/vendor/semantic-ui/site/elements/input.overrides",
+		"/Users/koutaroum/sites/cfy/apps/perspective/client/partials/_sidebar.jade",
+		"/Users/koutaroum/sites/cfy/client/layouts/sidebar_fixed.jade",
+		"/Users/koutaroum/sites/cfy/packages/npm-container/.npm/package/node_modules/request/node_modules/oauth-sign/README.md",
+		"/Users/koutaroum/sites/cfy/packages/npm-container/.build.npm-container/web.cordova.json",
+		"/Users/koutaroum/sites/cfy/packages/npm-container/.npm/package/node_modules/request/node_modules/isstream/README.md",
+		"/Users/koutaroum/sites/cfy/packages/npm-container/.npm/package/node_modules/request/index.js",
+		"/Users/koutaroum/sites/cfy/packages/npm-container/.npm/package/node_modules/request/request.js",
+		"/Users/koutaroum/sites/cfy/README.md",
+		"/Users/koutaroum/sites/cfy/_export/_/lib/_convertify.js",
+		"/Users/koutaroum/sites/cfy/client/compatibility/main.functions.js",
+		"/Users/koutaroum/sites/cfy/lib/helpers.coffee",
+		"/Users/koutaroum/sites/cfy/apps/network/client/helpers.coffee",
+		"/Users/koutaroum/sites/cfy/apps/network/lib/shared.coffee",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/vendor/bootstrap/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss",
+		"/Users/koutaroum/sites/cfy/public/vendor/semantic-ui/README.md",
+		"/Users/koutaroum/sites/cfy/apps/perspective/lib/router.coffee",
+		"/Users/koutaroum/sites/cfy/apps/perspective/client/perspective.scss",
+		"/Users/koutaroum/sites/cfy/client/layouts/default.coffee",
+		"/Users/koutaroum/sites/cfy/packages/npm-container/versions.json",
+		"/Users/koutaroum/sites/cfy/package.json",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/components/_scales.scss",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/components/_scaffolding.scss",
+		"/Users/koutaroum/sites/cfy/client/compatibility/side-comments.css",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/vendor/uikit/components/slidenav.import.less",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/vendor/uikit/components/slideshow.import.less",
+		"/Users/koutaroum/sites/cfy/packages/npm-container/.build.npm-container/npm/node_modules/csv/node_modules/csv-parse/test/skip_empty_lines.coffee",
+		"/Users/koutaroum/sites/cfy/cofeelint.json",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/vendor/uikit/components/form-file.import.less",
+		"/Users/koutaroum/sites/cfy/client/stylesheets/vendor/uikit/core/offcanvas.import.less",
+		"/Users/koutaroum/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/VIM Editor.cheatsheet",
+		"/Users/koutaroum/sites/cfy/apps/network/lib/helpers.coffee",
+		"/Users/koutaroum/Library/Preferences/com.apple.LaunchServices.plist",
+		"/Users/koutaroum/sites/cfy/apps/perspective/client/new.coffee",
+		"/Users/koutaroum/sites/cfy/apps/perspective/client/new.jade",
+		"/Users/koutaroum/Sites/cfy/lib/router.coffee",
+		"/Users/koutaroum/sites/cfy/packages/npm-container/.npm/package/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsl.conf",
+		"/Users/koutaroum/sites/cfy/private/semantic-ui/js/semantic-ui.js",
+		"/Users/koutaroum/sites/cfy/packages/npm-container/.npm/package/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsstyle",
+		"/Users/koutaroum/sites/cfy/client/compatibility/jquery.browser.js",
+		"/Users/koutaroum/Sites/cfy/packages/npm-container/.npm/package/node_modules/request/node_modules/http-signature/node_modules/ctype/tools/jsstyle",
+		"/Users/koutaroum/Sites/cfy/client/compatibility/jquery.browser.js",
+		"/Users/koutaroum/Sites/cfy/client/views/home/home.html",
+		"/Users/koutaroum/Sites/cfy/apps/perspective/client/perspective.scss",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/modules/_all.scss",
+		"/Users/koutaroum/Sites/cfy/client/views/services/services.scss",
+		"/Users/koutaroum/Sites/cfy/private/privatesources/js/semantic-ui/modal.js",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/main.scss",
+		"/Users/koutaroum/Sites/cfy/client/views/services/services.jade",
+		"/Users/koutaroum/Sites/cfy/lib/helpers.coffee",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/partials/_buttons.scss",
+		"/Users/koutaroum/Sites/cfy/packages/npm-container/.build.npm-container/buildinfo.json",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/vendor/uikit/core/_base.scss",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/vendor/uikit/_uikit.scss",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/vendor/uikit/_uikit-variables.scss",
+		"/Users/koutaroum/Downloads/uikit-master/dist/less/uikit-variables.less",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/vendor/bootstrap/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/vendor/bootstrap/assets/stylesheets/bootstrap/mixins/_background-variant.scss",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/vendor/bootstrap/assets/stylesheets/bootstrap/_variables.scss",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/vendor/bootstrap/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/_unorganized.scss",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/_components.scss",
+		"/Users/koutaroum/Sites/cfy/client/stylesheets/vendor/bootstrap/assets/stylesheets/bootstrap/_carousel.scss"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/koutaroum/Sites/cfy/.meteor",
+			"/Users/koutaroum/sites/packages/meteor-blog/client,/Users/koutaroum/sites/packages/meteor-blog/collections,/Users/koutaroum/sites/packages/meteor-blog/public,/Users/koutaroum/sites/packages/meteor-blog/server",
+			"/Users/koutaroum/sites/packages/meteor-blog/client,/Users/koutaroum/sites/packages/meteor-blog/collections",
+			"/Users/koutaroum/sites/packages/meteor-blog/{client,collections,public,server}/",
+			"/Users/koutaroum/sites/packages/meteor-blog",
+			"/Users/koutaroum/sites/convertify.io/wp-content/themes/Avada",
+			"/Users/koutaroum/sites/qualaroo",
+			"/Users/koutaroum/sites/thethingsandstuff",
+			"/Users/koutaroum/Dropbox/Clients/The Things and Stuff/magento",
+			"/Users/koutaroum/Dropbox/ClientsS/The Things and Stuff/magento",
+			"/Users/koutaroum/Dropbox/Optimizations/The Things and Stuff/magento",
+			"/Users/koutaroum/Dropbox/Optimizations/The Things and Stuff/magento/app/code/local/TheThingsAndStuff",
+			"/Users/koutaroum/Dropbox/Optimizations/The Things and Stuff/magento",
+			"/Users/koutaroum/sites/kmeteor"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alt",
+			"©©",
+			"theme",
+			"apath",
+			"theme",
+			"brog",
+			"Packages/Custom-Themes/brogrammer.tmTheme",
+			"Theme",
+			"theme",
+			"pan",
+			"consol",
+			"rul",
+			"rrul",
+			"rule",
+			"draw",
+			"whi",
+			"whitesp",
+			"set_setting",
+			".",
+			"set_setting",
+			"t",
+			"side",
+			"sidebar",
+			"ruler",
+			"ce",
+			"center",
+			"\": ",
+			"$(home)",
+			"invi",
+			"apath",
+			"0",
+			"margi",
+			"module",
+			"moduleDef",
+			"globalstrict",
+			": ",
+			" : ",
+			"^$",
+			"//",
+			"\\/\\/[^\\/.\\\"\\}\\{]+$",
+			"\\/\\/[^\\/.\\\"]+$",
+			"\\/\\/[^\\/]+$",
+			" : ",
+			"^\\n+",
+			"\\n+",
+			"\\n\\n",
+			"//",
+			"Convertify",
+			"rea",
+			"lated",
+			"Sublime",
+			"sublime",
+			"run",
+			"shlex",
+			"_command",
+			"call(",
+			"call",
+			"cls",
+			"Linter.l",
+			"lint_view",
+			"apply_to_all_views",
+			"shared_plugin",
+			"on_activated",
+			"util",
+			"_command",
+			"lint_view",
+			"lint_view(",
+			"lint_view",
+			"lint(",
+			"lint",
+			"lint(",
+			"        Lint ",
+			"lint",
+			"class",
+			"tog",
+			"draw_c",
+			"map",
+			"minim",
+			"mini",
+			"padding",
+			"margin",
+			"togg",
+			"toggle",
+			"#\n",
+			"tab",
+			"top",
+			"tab st",
+			"draw",
+			"indent",
+			"TRUE]",
+			"true",
+			"call",
+			"font",
+			"ont",
+			"line",
+			"theme",
+			"::",
+			":",
+			"\",",
+			" \"sbin\",",
+			"\"usr/sbin\",",
+			"\"usr/bin\",",
+			" \"usr/local/bin\",",
+			"\"Users/koutaroum/.pyenv/shims\",",
+			"\"/Users/koutaroum/.rvm/gems/ruby-1.9.3-p194/bin",
+			"\"bin\",",
+			",",
+			":",
+			"line",
+			"theme",
+			"indent",
+			"draw",
+			"white",
+			"new SimpleSchema",
+			"growlnotify",
+			"on_selection_modified_async",
+			"err",
+			", ",
+			"emai",
+			"ov",
+			"scro",
+			"Netwo",
+			"networkSignupClient",
+			"Schemas",
+			"schemas",
+			"word_wrap",
+			"\"translate_tabs_to_spaces",
+			"\"rulers\":"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"}\n",
+			"",
+			"0",
+			"\"80bb78db-fc4c-465c-85ef-02a49eee38f3\"",
+			"\"//n2.mouseflow.com/\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Apathy-2.3.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffee_compile_output":
+	{
+		"height": 122.0
+	},
+	"output.exec":
+	{
+		"height": 277.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 249.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"apspu",
+				"app/server/publish.js"
+			],
+			[
+				"aplr",
+				"app/lib/routes.js"
+			],
+			[
+				"aspub",
+				"convertify/app/server/publish.js"
+			],
+			[
+				"alrot",
+				"app/lib/routes.js"
+			],
+			[
+				"boo",
+				"client/boot.coffee"
+			],
+			[
+				"buu",
+				"client/stylesheets/vendor/bootstrap/assets/stylesheets/bootstrap/_button-groups.scss"
+			],
+			[
+				"coffee",
+				"lib/environment.coffee"
+			],
+			[
+				"sc",
+				"_lib/_/lib/_schemas.coffee"
+			],
+			[
+				"sch",
+				"_lib/_/lib/_schemas.coffee"
+			],
+			[
+				"sche",
+				"apps/network/lib/schemas.coffee"
+			],
+			[
+				"conve",
+				"_lib/_/lib/_convertify.js"
+			],
+			[
+				"boot",
+				"client/boot.coffee"
+			],
+			[
+				"coff",
+				"client/boot.coffee"
+			],
+			[
+				"chema",
+				"apps/network/lib/schemas.coffee"
+			],
+			[
+				"maincoff",
+				"client/layouts/admin/layout_admin.coffee"
+			],
+			[
+				"scss",
+				"~/sites/cfy/scss.json"
+			],
+			[
+				"converifjs",
+				"~/sites/cfy/_lib/_/lib/_convertify.js"
+			],
+			[
+				"js",
+				"private/semantic-ui/js/semantic-ui/sticky.js"
+			],
+			[
+				"schem",
+				"apps/network/lib/schemas.coffee"
+			],
+			[
+				"signup",
+				"apps/network/client/signup.jade"
+			],
+			[
+				"signjad",
+				"apps/network/client/signup.jade"
+			],
+			[
+				"requi",
+				"client/compatibility/require.js"
+			],
+			[
+				"jshr",
+				".jshintrc"
+			],
+			[
+				"jshrc",
+				".jshintrc"
+			],
+			[
+				"conver",
+				"_lib/_/lib/_convertify.js"
+			],
+			[
+				"globals",
+				"private/semantic-ui/stylesheets/globals/_site.scss"
+			],
+			[
+				"home",
+				"client/views/home/home.coffee"
+			],
+			[
+				"hom",
+				"client/views/home/home.html"
+			],
+			[
+				"sublimesett",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			[
+				"",
+				"apps/network/lib/schemas.coffee"
+			],
+			[
+				"ditorco",
+				".editorconfig"
+			],
+			[
+				"atc",
+				"lib/config/at_config.js"
+			],
+			[
+				"singja",
+				"apps/network/client/signup.jade"
+			],
+			[
+				"atcon",
+				"lib/config/at_config.js"
+			],
+			[
+				"conv",
+				"_export/_/lib/_convertify.js"
+			],
+			[
+				"devs",
+				"client/stylesheets/styles-dev.scss"
+			],
+			[
+				"scale",
+				"client/stylesheets/components/_scales.scss"
+			],
+			[
+				"coffeel",
+				"cfy/cofeelint.json"
+			],
+			[
+				"coffelin",
+				"cfy/cofeelint.json"
+			],
+			[
+				"help",
+				"cfy/lib/helpers.coffee"
+			],
+			[
+				"modall",
+				"client/stylesheets/modules/_all.scss"
+			],
+			[
+				"main",
+				"client/stylesheets/main.scss"
+			],
+			[
+				"butt",
+				"client/stylesheets/partials/_buttons.scss"
+			],
+			[
+				"com",
+				"client/stylesheets/_components.scss"
+			],
+			[
+				"uno",
+				"client/stylesheets/_unorganized.scss"
+			],
+			[
+				"uikva",
+				"client/stylesheets/vendor/uikit/_uikit-variables.scss"
+			],
+			[
+				"edit",
+				".editorconfig"
+			],
+			[
+				"serjad",
+				"client/views/services/services.jade"
+			],
+			[
+				"lirou",
+				"lib/router.coffee"
+			],
+			[
+				"serv",
+				"client/views/services/services.coffee"
+			],
+			[
+				"ser",
+				"client/views/services/services.jade"
+			],
+			[
+				"serscss",
+				"client/views/services/services.scss"
+			],
+			[
+				"quan",
+				"apps/quantify/client/quantify.scss"
+			],
+			[
+				"qua",
+				"collections/quantify.js"
+			],
+			[
+				"quantyh",
+				"apps/quantify/client/views/_layout.html"
+			],
+			[
+				"quantifyht",
+				"apps/quantify/client/views/_menu.html"
+			],
+			[
+				"pers",
+				"apps/perspective/client/perspective.scss"
+			],
+			[
+				"uvar",
+				"client/stylesheets/vendor/uikit/_uikit-variables.scss"
+			],
+			[
+				"base",
+				"client/stylesheets/vendor/uikit/core/_base.scss"
+			],
+			[
+				"scaff",
+				"client/stylesheets/partials/_scaffolding.scss"
+			],
+			[
+				"ma",
+				"client/stylesheets/main.scss"
+			],
+			[
+				"var",
+				"client/stylesheets/vendor/uikit/_uikit-variables.scss"
+			],
+			[
+				"uik",
+				"client/stylesheets/vendor/uikit/_uikit.scss"
+			],
+			[
+				"mai",
+				"client/stylesheets/main.scss"
+			],
+			[
+				"phea",
+				"apps/perspective/client/partials/_header.jade"
+			],
+			[
+				"compo",
+				"client/stylesheets/_components.scss"
+			],
+			[
+				"per",
+				"apps/perspective/client/perspective.scss"
+			],
+			[
+				"varia",
+				"client/stylesheets/modules/_variables.scss"
+			],
+			[
+				"persdas",
+				"apps/perspective/client/dashboard.jade"
+			],
+			[
+				"adhead",
+				"client/layouts/admin/layoutAdminHeaderDropdown.tpl.jade"
+			],
+			[
+				"parheade",
+				"apps/perspective/client/partials/_header.jade"
+			],
+			[
+				"layad",
+				"client/layouts/admin/layoutAdminHeaderDropdown.tpl.jade"
+			],
+			[
+				"laya",
+				"client/layouts/admin/layoutAdmin.tpl.jade"
+			],
+			[
+				"layac",
+				"client/layouts/admin/layout_admin.coffee"
+			],
+			[
+				"layadh",
+				"client/layouts/admin/layoutAdminHeaderDropdown.tpl.jade"
+			],
+			[
+				"unor",
+				"client/stylesheets/_unorganized.scss"
+			],
+			[
+				"sca",
+				"client/stylesheets/partials/_scaffolding.scss"
+			],
+			[
+				"suit",
+				"client/stylesheets/vendor/_suitcss-utils.scss"
+			],
+			[
+				"perspsi",
+				"apps/perspective/client/partials/_sidebar.jade"
+			],
+			[
+				"layouad",
+				"client/layouts/admin/layoutAdmin.tpl.jade"
+			],
+			[
+				"admi",
+				"client/layouts/admin/layout_admin.coffee"
+			],
+			[
+				"clepaheade",
+				"apps/perspective/client/partials/_header.jade"
+			],
+			[
+				"pershe",
+				"apps/perspective/client/partials/_header.jade"
+			],
+			[
+				"layouta",
+				"client/layouts/admin/layoutAdminHeaderDropdown.jade"
+			],
+			[
+				"prou",
+				"apps/perspective/lib/router.coffee"
+			],
+			[
+				"qrou",
+				"apps/quantify/lib/router.coffee"
+			],
+			[
+				"sidebaf",
+				"client/layouts/sidebar_fixed.jade"
+			],
+			[
+				"sideba",
+				"apps/perspective/client/partials/_sidebar.jade"
+			],
+			[
+				"side",
+				"apps/perspective/client/partials/_sidebar.jade"
+			],
+			[
+				"navba",
+				"client/stylesheets/partials/_navbars.scss"
+			],
+			[
+				"headeht",
+				"client/layouts/partials/header_deafult.html"
+			],
+			[
+				"accou",
+				"server/lib/config/accounts.coffee"
+			],
+			[
+				"librou",
+				"lib/router.coffee"
+			],
+			[
+				"prout",
+				"apps/perspective/lib/router.coffee"
+			],
+			[
+				"persps",
+				"apps/perspective/client/perspective.scss"
+			],
+			[
+				"headerja",
+				"apps/perspective/client/partials/_header.jade"
+			],
+			[
+				"header",
+				"client/layouts/partials/_header.html"
+			],
+			[
+				"headehr",
+				"client/layouts/partials/_header.html"
+			],
+			[
+				"navi",
+				"client/layouts/partials/sharedNavItems.tpl.jade"
+			],
+			[
+				"sideb",
+				"apps/perspective/client/partials/_sidebar.jade"
+			],
+			[
+				"suitu",
+				"client/stylesheets/vendor/_suitcss-utils.scss"
+			],
+			[
+				"foote",
+				"client/layouts/partials/_footer.html"
+			],
+			[
+				"foot",
+				"client/layouts/partials/_footer.html"
+			],
+			[
+				"suitc",
+				"client/stylesheets/vendor/_suitcss-utils.scss"
+			],
+			[
+				"layoufi",
+				"client/layouts/sidebar_fixed.jade"
+			],
+			[
+				"servs",
+				"client/views/services/services.scss"
+			],
+			[
+				"hel",
+				"lib/helpers.coffee"
+			],
+			[
+				"_side",
+				"apps/perspective/client/partials/_sidebar.jade"
+			],
+			[
+				"sideja",
+				"apps/perspective/client/partials/_sidebar.jade"
+			],
+			[
+				"sidefi",
+				"client/layouts/sidebar_fixed.jade"
+			],
+			[
+				"serja",
+				"client/views/services/services.jade"
+			],
+			[
+				"_headerja",
+				"apps/perspective/client/partials/_header.jade"
+			],
+			[
+				"_hedaerj",
+				"apps/perspective/client/partials/_header.jade"
+			],
+			[
+				"persp",
+				"apps/perspective/client/perspective.coffee"
+			],
+			[
+				"sidebar",
+				"apps/perspective/client/partials/_sidebar.jade"
+			],
+			[
+				"comp",
+				"client/stylesheets/_components.scss"
+			],
+			[
+				"na",
+				"client/stylesheets/partials/_navbars.scss"
+			],
+			[
+				"nav",
+				"client/stylesheets/partials/_navbars.scss"
+			],
+			[
+				"env",
+				"lib/environment.coffee"
+			],
+			[
+				"en",
+				"lib/environment.coffee"
+			],
+			[
+				"typ",
+				"client/stylesheets/partials/_typography.scss"
+			],
+			[
+				"homeht",
+				"client/views/home/home.html"
+			],
+			[
+				"homess",
+				"client/views/home/home.scss"
+			],
+			[
+				"bvaria",
+				"client/stylesheets/vendor/bootstrap/assets/stylesheets/bootstrap/_variables.scss"
+			],
+			[
+				"perco",
+				"apps/perspective/client/perspective.coffee"
+			],
+			[
+				"pheade",
+				"apps/perspective/client/partials/_header.jade"
+			],
+			[
+				"jade",
+				"client/layouts/sidebar.jade"
+			],
+			[
+				"vari",
+				"client/stylesheets/modules/_variables.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

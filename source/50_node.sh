@@ -27,9 +27,17 @@ function nave_install() {
 # Global npm modules to install.
 npm_globals=(
   bower
+  coffee-script
+  coffeelint
   ember-cli
   grunt-cli
   grunt-init
+  jade
+  js-beautify
+  js2coffee
+  jshin
+  less
+  mocha
   linken
   node-inspector
   yo

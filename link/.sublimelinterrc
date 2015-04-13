@@ -1,0 +1,12 @@
+{
+  "@python": 10,
+  "linters": {
+    "coffeelint": {
+    },
+    "scss": {
+    },
+     "jslint": {
+
+     }
+  }
+}

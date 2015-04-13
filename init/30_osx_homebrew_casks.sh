@@ -20,57 +20,31 @@ brew cask info this-is-somewhat-annoying 2>/dev/null
 casks=(
   # Applications
   1password
-  a-better-finder-rename
-  battle-net
-  bettertouchtool
-  charles
   chromium
-  chronosync
+  coderunner
+  dash
   dropbox
+  evernote
   fastscripts
   firefox
   google-chrome
-  gyazo
-  hermes
-  hex-fiend
   istat-menus
   iterm2
+  jumpcut
   launchbar
-  macvim
-  moom
-  omnidisksweeper
-  race-for-the-galaxy
   remote-desktop-connection
-  scroll-reverser
+  sketch
   skype
   slack
-  sonos
   sourcetree
   spotify
-  star-realms
-  steam
-  synology-assistant
-  teamspeak-client
+  sublime-text
   teamviewer
-  the-unarchiver
-  todoist
-  totalfinder
-  tower
-  transmission-remote-gui
+  toggldesktop
+  transmit
   vagrant
   virtualbox
   vlc
-  # Quick Look plugins
-  betterzipql
-  qlcolorcode
-  qlmarkdown
-  qlprettypatch
-  qlstephen
-  quicklook-csv
-  quicklook-json
-  quicknfo
-  suspicious-package
-  webpquicklook
   # Color pickers
   colorpicker-developer
   colorpicker-skalacolor

@@ -1,0 +1,15 @@
+root = true
+
+# 2 space indentation
+[*.{js,scss,coffee}]
+indent_style = space
+indent_size = 2
+
+# 2 space indentation
+[*.jade]
+indent_style = space
+indent_size = 2
+
+[*,cheatsheet]
+indent_style = tab
+indent_size = 2

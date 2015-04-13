@@ -1,7 +1,7 @@
 # Editing
 
 if [[ ! "$SSH_TTY" ]] && is_osx; then
-  export EDITOR='mvim'
+  export EDITOR='subl'
   export LESSEDIT='mvim ?lm+%lm -- %f'
 else
   export EDITOR='vim'
