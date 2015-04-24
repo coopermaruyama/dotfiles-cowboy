@@ -20,21 +20,23 @@ function path_remove() {
 }
 # Source all files in "source"
 function src() {
-  local file
-  if [[ -n "$1" ]]; then
-    source "$DOTFILES/source/$1.sh"
-  else
-    for file in $DOTFILES/source/*; do
-      source "$file"
-    done
-  fi
+  # local file
+  # if [[ -n "$1" ]]; then
+  source "$DOTFILES/source/60_oh-my-zsh.sh"
+  # else
+    # for file in $DOTFILES/source/*; do
+      # source "$file"
+    # done
+  # fi
 }
 
-# Run dotfiles script, then source.
-function dotfiles() {
-  $DOTFILES/bin/dotfiles "$@" && src
-}
+# # Run dotfiles script, then source.
+# function dotfiles() {
+#   $DOTFILES/bin/dotfiles "$@" && src
+# }
 
 src
 
 
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
