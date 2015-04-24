@@ -2,9 +2,22 @@
 export DOTFILES=~/.dotfiles
 
 # Add binaries into the path
-PATH=$DOTFILES/bin:$PATH
-export PATH
-
+# PATH=$DOTFILES/bin:$PATH
+# export PATH
+# Remove an entry from $PATH
+# Based on http://stackoverflow.com/a/2108540/142339
+function path_remove() {
+  # PATH => /bin:/opt/a dir/bin:/sbin
+  WORK=:$PATH:
+  # WORK => :/bin:/opt/a dir/bin:/sbin:
+  REMOVE='$1'
+  WORK=${WORK/:$REMOVE:/:}
+  # WORK => :/bin:/sbin:
+  WORK=${WORK%:}
+  WORK=${WORK#:}
+  path=$WORK
+  echo "$path"
+}
 # Source all files in "source"
 function src() {
   local file
