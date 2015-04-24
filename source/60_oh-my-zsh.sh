@@ -1,3 +1,4 @@
+export PATH="/usr/local/bin:$HOME/bin:/usr/bin:/usr/sbin:/sbin:/bin:/Applications/Atom.app/Contents/Resources/app/apm/bin"
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 #
@@ -5,7 +6,11 @@ export ZSH=$HOME/.oh-my-zsh
 # # Look in ~/.oh-my-zsh/themes/
 # # Optionally, if you set this to "random", it'll load a random theme each
 # # time that oh-my-zsh is loaded.
-ZSH_THEME="robbyrussell"
+if [[ -n $OVERRIDE_ZSH_THEME ]]; then
+  ZSH_THEME=$OVERRIDE_ZSH_THEME
+else
+  ZSH_THEME="SMT"
+fi
 #
 # # Uncomment the following line to use case-sensitive completion.
 # # CASE_SENSITIVE="true"
@@ -51,8 +56,7 @@ ZSH_THEME="robbyrussell"
 # # Add wisely, as too many plugins slow down shell startup.
 plugins=(git cloudapp coffee colored-man common-aliases gem git-extras git-flow git-hubflow git-prompt osx meteor heroku github git-remote-branch rbenv rsync rvm sublime sudo theme web-search z)
 # # User configuration
-#
-export PATH=$HOME/bin:/usr/local/bin:/bin:/usr/bin:/usr/sbin:/sbin:$PATH
+
 # # export MANPATH="/usr/local/man:$MANPATH"
 #
 source $ZSH/oh-my-zsh.sh
@@ -83,13 +87,13 @@ alias zshconfig="subl ~/.zshrc"
 alias ohmyzsh="subl ~/.oh-my-zsh"
 #
 # ### Added by the Heroku Toolbelt
-export PATH="/usr/local/heroku/bin:$PATH"
+export PATH="$(path_remove /usr/local/heroku/bin)":/usr/local/heroku/bin
 #
 # export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 # export PACKAGE_DIRS=/Users/cooperm/sites/packages
 #
 #
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+export PATH="$(path_remove $HOME/.rvm/bin)":$HOME/.rvm/bin # Add RVM to PATH for scripting
 
 #pyenv
 if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
@@ -97,9 +101,15 @@ if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
 
 # nvm
 export NVM_DIR=~/.nvm
-  source $(brew --prefix nvm)/nvm.sh
-export PATH="$PATH:$(brew --prefix nvm)/nvm.sh"
+source $(brew --prefix nvm)/nvm.sh
+# export PATH="$PATH:$(brew --prefix nvm)/nvm.sh"
 
 # ensure root bin is first
 #export PATH="/usr/local/bin:$PATH"
 
+
+# clean up path
+# 1. remove double colons
+# 2. remove trailing colons off head/tail
+# export PATH=${${${PATH:gs/::/:/}#s#:##}%\:}
+export NODE_PATH=/usr/local/lib/node_modules
