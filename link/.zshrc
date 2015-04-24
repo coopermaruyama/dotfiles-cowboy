@@ -23,6 +23,7 @@ function src() {
   # local file
   # if [[ -n "$1" ]]; then
   source "$DOTFILES/source/60_oh-my-zsh.sh"
+  source "$DOTFILES/source/99_direnv.sh"
   # else
     # for file in $DOTFILES/source/*; do
       # source "$file"
