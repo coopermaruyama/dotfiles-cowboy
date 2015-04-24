@@ -1,6 +1,6 @@
 # Editing
 
-if [[ ! "$SSH_TTY" ]] && is_osx; then
+if [[ -z "$SSH_TTY" ]] && is_osx; then
   export EDITOR='subl'
   export LESSEDIT='mvim ?lm+%lm -- %f'
 else

@@ -9,7 +9,8 @@ export PATH
 alias c="tr -d '\n' | pbcopy"
 
 # Make 'less' more.
-[[ "$(type -P lesspipe.sh)" ]] && eval "$(lesspipe.sh)"
+# [[ -n "$(whence -f lesspipe.sh)" ]] && eval "$(lesspipe.sh)"
+
 
 # Start ScreenSaver. This will lock the screen if locking is enabled.
 alias ss="open /System/Library/Frameworks/ScreenSaver.framework/Versions/A/Resources/ScreenSaverEngine.app"
@@ -22,7 +23,7 @@ function vm_template() {
   local dest="$dest_dir/$basename"
   local src_dir="$dest_dir/Templates"
   local src="$src_dir/$name"
-  if [[ ! "$name" || ! -e "$src" ]]; then
+  if [[ -z "$name" || -z "$src" ]]; then
     echo "You must specify a valid VM template from this list:";
     shopt -s nullglob
     for f in "$src_dir"/*.pvm "$src_dir"/*.pvm.zip; do
