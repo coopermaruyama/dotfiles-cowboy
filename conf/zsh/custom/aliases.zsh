@@ -6,3 +6,6 @@ alias ccc='cd ~/sites/cfy'
 
 #shortcut to sites
 alias sites='cd ~/sites'
+
+#google
+alias ggl='google'
