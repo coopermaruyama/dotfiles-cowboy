@@ -2,6 +2,7 @@ export PATH="/usr/local/bin:$HOME/bin:/usr/bin:/usr/sbin:/sbin:/bin:/Application
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 #
+[[ -n "$SSH_CLIENT" ]] || export DEFAULT_USER=$USER
 # # Set name of the theme to load.
 # # Look in ~/.oh-my-zsh/themes/
 # # Optionally, if you set this to "random", it'll load a random theme each
@@ -9,7 +10,8 @@ export ZSH=$HOME/.oh-my-zsh
 if [[ -n $OVERRIDE_ZSH_THEME ]]; then
   ZSH_THEME=$OVERRIDE_ZSH_THEME
 else
-  ZSH_THEME="SMT"
+  #ZSH_THEME="SMT"
+  ZSH_THEME="agnoster"
 fi
 #
 # # Uncomment the following line to use case-sensitive completion.
@@ -28,11 +30,11 @@ fi
 # # DISABLE_AUTO_TITLE="true"
 #
 # # Uncomment the following line to enable command auto-correction.
-# # ENABLE_CORRECTION="true"
+ENABLE_CORRECTION="true"
 #
 # # Uncomment the following line to display red dots whilst waiting for
 # completion.
-# # COMPLETION_WAITING_DOTS="true"
+COMPLETION_WAITING_DOTS="true"
 #
 # # Uncomment the following line if you want to disable marking untracked files
 # # under VCS as dirty. This makes repository status check for large
@@ -54,7 +56,8 @@ ZSH_CUSTOM=$DOTFILES/conf/zsh/custom
 # # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # # Example format: plugins=(rails git textmate ruby lighthouse)
 # # Add wisely, as too many plugins slow down shell startup.
-plugins=(git cloudapp coffee colored-man common-aliases gem git-extras git-flow git-hubflow git-prompt osx meteor heroku github git-remote-branch rbenv rsync rvm sublime sudo theme web-search z)
+plugins=(atom git cloudapp coffee colored-man common-aliases gem git-extras git-flow git-hubflow git-prompt osx meteor heroku github git-remote-branch rbenv rsync rvm sublime sudo theme web-search z heroku history history-substring-search lol nmap node npm pass per-directory-history safe-paste tmux systemadmin)
+
 # # User configuration
 
 # # export MANPATH="/usr/local/man:$MANPATH"
@@ -68,7 +71,7 @@ source $ZSH/oh-my-zsh.sh
 if [[ -n $SSH_CONNECTION ]]; then
    export EDITOR='vim'
 else
-  export EDITOR='subl'
+  export EDITOR='vim'
 fi
 #
 # # Compilation flags
@@ -83,8 +86,8 @@ fi
 # # For a full list of active aliases, run `alias`.
 # #
 # # Example aliases
-alias zshconfig="subl ~/.zshrc"
-alias ohmyzsh="subl ~/.oh-my-zsh"
+alias zshconfig="vim ~/.zshrc"
+alias ohmyzsh="vim ~/.dotfiles/source/60_oh-my-zsh.sh"
 #
 # ### Added by the Heroku Toolbelt
 export PATH="$(path_remove /usr/local/heroku/bin)":/usr/local/heroku/bin

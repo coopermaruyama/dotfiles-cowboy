@@ -1,3 +1,10 @@
+set nocompatible              " be iMproved, required
+filetype off                  " required
+
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" alternatively, pass
+
 " Change mapleader
 let mapleader=","
 
@@ -264,4 +271,10 @@ Plug 'wavded/vim-stylus'
 Plug 'klen/python-mode', {'for': 'python'}
 Plug 'terryma/vim-multiple-cursors'
 Plug 'wting/rust.vim', {'for': 'rust'}
+Plug 'kchmck/vim-coffee-script'
 call plug#end()
+
+
+" All of your Plugins must be added before the following line
+call vundle#end()            " required
+filetype plugin indent on    " required

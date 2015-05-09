@@ -35,6 +35,8 @@ function src() {
 # function dotfiles() {
 #   $DOTFILES/bin/dotfiles "$@" && src
 # }
+#POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+
 
 src
 
